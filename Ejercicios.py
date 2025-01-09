@@ -7,3 +7,4 @@ print("nombre : ", nombre)
 print("edad : ", edad)
 
 print("pais : ", pais)
+
